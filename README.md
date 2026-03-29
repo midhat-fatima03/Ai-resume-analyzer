@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello
 # AI Resume Analyzer 📝
 The AI Resume Analyzer is an intelligent web-based tool designed to help job seekers evaluate and enhance their resumes by comparing them directly against a specific job description. Leveraging advanced AI models, this tool simulates how Applicant Tracking Systems (ATS) and recruiters assess your resume for relevance, alignment, and suitability for a role. Completely in a single Python file.
@@ -104,3 +105,7 @@ Upload a resume, paste a job description, and let the AI analyze your resume for
 - [Linkedin](https://www.linkedin.com/in/altoks-ai/)
 - [Instagram](https://www.instagram.com/altoks_ai/)
 - [X (Twitter)](https://x.com/Altoks_AI)
+=======
+# Ai-resume-analyzer
+The AI Resume Analyzer is an intelligent web-based tool designed to help job seekers evaluate and enhance their resumes by comparing them directly against a specific job description.
+>>>>>>> 61aa1a296c227488de3e9c7752319b59fcba3450
